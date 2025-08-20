@@ -1,5 +1,6 @@
 # Abut me
-
+>[!Important]
+>**学而不思则罔，思而不学则殆**
 
 **Johntelecom/Johntelecom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
